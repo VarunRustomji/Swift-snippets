@@ -1,3 +1,8 @@
 # Swift-snippets
 
-This is a collection of reusable snippets that will help you implement common functionalities in swift apps.
+This is a collection of reusable snippets that will help beginners add common functionalities to their iOS apps. The code provided is written in **Swift 4** . 
+
+###Table of content
+
+Alerts(https://github.com/VarunRustomji/Swift-snippets/blob/master/alertPopup.md)
+Creating simple alerts in swift
